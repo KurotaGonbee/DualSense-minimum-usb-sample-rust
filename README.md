@@ -1,6 +1,6 @@
-# DualSense_Minimum_Demo_Rust
+# DualSense-minimum-usb-sample-rust
 
-This is an **unofficial** demo to try DualSense features.
+This is an **unofficial** sample to try DualSense features.
 
 ## Dependencies
 This project depends on [rusb](https://github.com/a1ien/rusb)
